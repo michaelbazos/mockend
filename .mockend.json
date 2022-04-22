@@ -10,7 +10,7 @@
             ]
         },
         "completed": {
-            "boolean": false
+            "boolean": [ false ]
         }
     },
     "User": {
