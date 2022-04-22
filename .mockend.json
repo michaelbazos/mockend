@@ -11,7 +11,8 @@
         },
         "completed": {
             "boolean": {}
-        }
+        },
+        "limit": 10
     },
     "User": {
         "name": {
