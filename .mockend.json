@@ -1,31 +1,18 @@
 {
-    "Todo": [
-        {
-            "id": 0,
-            "title": "Learn JavaScript",
-            "completed": false
+    "Todo": {
+        "title": {
+            "string": [
+                "Learn JavaScript",
+                "Learn TypeScript",
+                "Learn React.js",
+                "Learn Angular",
+                "Learn Rust"
+            ]
         },
-        {
-            "id": 1,
-            "title": "Learn TypeScript",
-            "completed": false
-        },
-        {
-            "id": 2,
-            "title": "Learn React.js",
-            "completed": true
-        },
-        {
-            "id": 3,
-            "title": "Learn Angular",
-            "completed": false
-        },
-        {
-            "id": 4,
-            "title": "Learn Rust",
-            "completed": false
+        "completed": {
+            "boolean": {}
         }
-    ],
+    },
     "User": {
         "name": {
             "string": {}
