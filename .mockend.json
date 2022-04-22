@@ -9,7 +9,9 @@
                 "Learn Rust"
             ]
         },
-        "completed": false
+        "completed": {
+            "boolean": {}
+        }
     },
     "User": {
         "name": {
