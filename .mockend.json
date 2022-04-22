@@ -1,5 +1,8 @@
 {
     "Todo": {
+        "_meta": {
+            "limit": 10
+        },
         "title": {
             "string": [
                 "Learn JavaScript",
@@ -11,8 +14,7 @@
         },
         "completed": {
             "boolean": {}
-        },
-        "limit": 10
+        }
     },
     "User": {
         "name": {
